@@ -8,6 +8,14 @@ Espero que tenha conseguido aprender tudo que eu estava querendo passar e se qui
 
 Caso queira rever os slides pode acessar por esses links o [pdf](./openday.pdf) ou o [keynote](./openday.key).
 
+### Contato
+
+Se quiser entrar em contato comigo pode mandar:
+
+1. Email: emersonvvictor@gmail.com | evfl@gmail.com
+2. Telegram: @PocExausta
+3. Instagram: @emerson.victor
+
 ### Links úteis
 
 Nessa área tem alguns links sobre coisas que eu falei ou achei interessante sobre design, pode te ajudar como um ponto de partida ou até aprofundamento em alguns assuntos.
