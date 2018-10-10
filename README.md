@@ -6,7 +6,7 @@ Se você foi a minha apresentação muito obrigado!!!
 
 Espero que tenha conseguido aprender tudo que eu estava querendo passar e se quiser falar comigo sobre alguma coisa meu email está no último slide. 
 
-Caso queira rever os slides pode acessar por esses links o [pdf](./openday.pdf)
+Caso queira rever os slides pode acessar por esse [link](./openday.pdf)
 
 ### Contato
 
