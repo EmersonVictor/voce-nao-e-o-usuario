@@ -2,7 +2,7 @@
 ## Open Day 2018
 ### Olá, pessoa :) 
 
-Se você foi a minha apresentação muito obrigado :) 
+Se você foi a minha apresentação muito obrigado!!!
 
 Espero que tenha conseguido aprender tudo que eu estava querendo passar e se quiser falar comigo sobre alguma coisa meu email está no último slide. 
 
