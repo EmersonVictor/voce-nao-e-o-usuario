@@ -5,35 +5,35 @@
 
 Se você foi a minha apresentação muito obrigado :) 
 
-Espero que tenha conseguido aprender tudo que eu estava querendo passar. 
+Espero que tenha conseguido aprender tudo que eu estava querendo passar e se quiser falar comigo sobre alguma coisa meu email está no último slide. 
 
-Caso queira rever os slides pode acessar por esses links o pdf ou o keynote.
+Caso queira rever os slides pode acessar por esses links o [pdf](./openday.pdf) ou o [keynote](./openday.key).
 
 ### Links úteis
 
 Nessa área tem alguns links sobre coisas que eu falei ou achei interessante sobre design, pode te ajudar como um ponto de partida ou até aprofundamento em alguns assuntos.
 
 - Ferramentas
-  - https://sketchapp.com
-  - https://www.figma.com
-  - https://www.invisionapp.com
-  - https://www.adobe.com
+  - [Sketch](https://sketchapp.com)
+  - [Figma](https://www.figma.com)
+  - [InVision](https://www.invisionapp.com)
+  - [Adobe](https://www.adobe.com)
 - Referências para criatividade
-  - https://br.pinterest.com
-  - https://www.behance.net
-  - https://dribbble.com
+  - [Pinterest](https://br.pinterest.com)
+  - [Behance](https://www.behance.net)
+  - [Dribbble](https://dribbble.com)
 - Outros
-  - http://movimentoux.com/work/netflix/
-  - http://movimentoux.com/work/nubank/
-  - http://learndesignprinciples.com
-  - https://medium.com/ui-lab-school/os-princ%C3%ADpios-do-design-em-user-interface-80f300cb81e0
-  - https://www.youtube.com/user/gcflearnfree/search?query=design
-  - https://medium.com/topic/design
-  - https://medium.com/aela/tagged/ux-design
-  - https://brasil.uxdesign.cc
-  - https://brasil.uxdesign.cc/muito-além-do-teste-de-usabilidade-os-vários-tipos-de-pesquisas-com-usuários-em-ux-b91a6e15bc61
-  - https://brasil.uxdesign.cc/pesquisa-com-usuários-como-escolher-a-técnica-certa-bdd09ee0f302
-  - https://www.designerd.com.br/designer-cria-fonte-que-combina-a-escrita-em-braille-com-a-tradicional/
-  - https://www.youtube.com/watch?v=_2LLXnUdUIc
-  - https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+  - [Movimento UX: Netflix](http://movimentoux.com/work/netflix/)
+  - [Movimento UX: Nubank](http://movimentoux.com/work/nubank/)
+  - [Design principles](http://learndesignprinciples.com)
+  - [Princípios do design em UI](https://medium.com/ui-lab-school/os-princ%C3%ADpios-do-design-em-user-interface-80f300cb81e0)
+  - [Canal sobre design](https://www.youtube.com/user/gcflearnfree/search?query=design)
+  - [Medium: Design](https://medium.com/topic/design)
+  - [Medium: UX Design](https://medium.com/aela/tagged/ux-design)
+  - [Brasi UXDesign](https://brasil.uxdesign.cc)
+  - [Testes de usabilidade](https://brasil.uxdesign.cc/muito-além-do-teste-de-usabilidade-os-vários-tipos-de-pesquisas-com-usuários-em-ux-b91a6e15bc61)
+  - [Pesquisa com o usuário](https://brasil.uxdesign.cc/pesquisa-com-usuários-como-escolher-a-técnica-certa-bdd09ee0f302)
+  - [Fonte que combina braille com tradicional](https://www.designerd.com.br/designer-cria-fonte-que-combina-a-escrita-em-braille-com-a-tradicional/)
+  - [Cor](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+  - [GESTALT: Principles in UI Design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
 
