@@ -33,6 +33,6 @@ Nessa área tem alguns links sobre coisas que eu falei ou achei interessante sob
   - [Testes de usabilidade](https://brasil.uxdesign.cc/muito-além-do-teste-de-usabilidade-os-vários-tipos-de-pesquisas-com-usuários-em-ux-b91a6e15bc61)
   - [Pesquisa com o usuário](https://brasil.uxdesign.cc/pesquisa-com-usuários-como-escolher-a-técnica-certa-bdd09ee0f302)
   - [Fonte que combina braille com tradicional](https://www.designerd.com.br/designer-cria-fonte-que-combina-a-escrita-em-braille-com-a-tradicional/)
-  - [Cor](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+  - [Teoria das cores](https://www.youtube.com/watch?v=_2LLXnUdUIc)
   - [GESTALT: Principles in UI Design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
 
