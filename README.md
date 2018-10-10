@@ -1,6 +1,5 @@
 # Você não é o usuário: Guia para não designers
 ## Open Day 2018
----
 ### Olá, pessoa :) 
 
 Se você foi a minha apresentação muito obrigado :) 
