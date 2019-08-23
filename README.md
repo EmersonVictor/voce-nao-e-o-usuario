@@ -12,9 +12,8 @@ Caso queira rever os slides pode acessar por esse [link](./openday.pdf)
 
 Se quiser entrar em contato comigo pode mandar:
 
-1. Email: emersonvvictor@gmail.com | evfl@gmail.com
-2. Telegram: @PocExausta
-3. Instagram: @emerson.victor
+1. Email: emersonvvictor@gmail.com
+2. Instagram: @emer.victor
 
 ### Links úteis
 
